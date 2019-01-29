@@ -1,5 +1,5 @@
 # StupidJson
-One more JSON serializer/deserializer for Java.
+One more JSON serializer/deserializer for Java (Android).
 
 # Why?
 I wrote it overnight since I got sick with having 400K of zipped code (after optimization) attached to all of my packages for no apparent reason. Turns out, that simple JSON serializer now-days is a framework.
@@ -29,5 +29,11 @@ More examples can be found [HERE](https://github.com/alexportnov/StupidJson/blob
 
 
 You can use it either as library (see releases), or just copy-paste the source [HERE](https://github.com/alexportnov/StupidJson/blob/master/StupidJson/src/main/java/com/stupidjson/StupidJson.java)
+
+
+# TODO
+* Make the lib pure Java - there's no real reason for it not to be
+* Remove dependency to org.json (I got lazy here)
+
 
 **Fave fun!**
